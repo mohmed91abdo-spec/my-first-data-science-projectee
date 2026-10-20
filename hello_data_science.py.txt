@@ -1,0 +1,11 @@
+
+# My first Data Science program
+
+student = "Data Science learner"
+numbers = [10, 20, 30, 40, 50]
+
+average = sum(numbers) / len(numbers)
+
+print("Welcome,", student)
+print("Numbers:", numbers)
+print("Average:", average)
